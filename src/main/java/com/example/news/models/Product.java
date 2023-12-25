@@ -1,4 +1,4 @@
-package com.example.buysell.models;
+package com.example.news.models;
 
 import lombok.Data;
 
@@ -7,8 +7,6 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 import javax.persistence.CascadeType;
-
-import org.hibernate.annotations.Cascade;
 
 // ...
 

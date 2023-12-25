@@ -1,6 +1,6 @@
-package com.example.buysell.models;
+package com.example.news.models;
 
-import com.example.buysell.models.enums.Role;
+import com.example.news.models.enums.Role;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

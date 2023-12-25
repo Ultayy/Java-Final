@@ -1,4 +1,4 @@
-package com.example.buysell.models;
+package com.example.news.models;
 
 import javax.persistence.*;
 

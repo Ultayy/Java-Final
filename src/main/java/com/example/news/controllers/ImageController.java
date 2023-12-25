@@ -1,7 +1,7 @@
-package com.example.buysell.controllers;
+package com.example.news.controllers;
 
-import com.example.buysell.models.Image;
-import com.example.buysell.repositories.ImageRepository;
+import com.example.news.models.Image;
+import com.example.news.repositories.ImageRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.http.MediaType;
